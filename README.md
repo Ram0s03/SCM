@@ -5,3 +5,5 @@
 - FAÇA UM COMMIT LOCAL
 - REALIZE UM PUSH
 - CONVIDE UM COLABORADOR
+
+qualquer coisa para testar
